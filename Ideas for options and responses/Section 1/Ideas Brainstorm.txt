@@ -1,0 +1,4 @@
+wake up in room:
+	check wounds
+	look around room
+	look for weapon
