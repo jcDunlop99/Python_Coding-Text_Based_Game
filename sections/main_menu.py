@@ -2,9 +2,9 @@ def main():
     print("Welcome to <Insert Title here>")
     print("This is a text based adventure game written by our class.")
     print("The controls are simple, input the number contained in the parenthesis")
-    print("(1) Begin playing")
-    print("(2) Veiw credits")
-    print("(3) Exit window")
+    print("(1) Begin Playing")
+    print("(2) Veiw Credits")
+    print("(3) Exit Window")
     sel = int(input("Selection >> "))
     if sel == 1:
         print("Playing game")
