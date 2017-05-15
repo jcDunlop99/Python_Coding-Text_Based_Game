@@ -3,3 +3,4 @@ wake up in room:
 	look around room
 	look for weapon
 	go back to sleep
+		you go back to sleep the end
