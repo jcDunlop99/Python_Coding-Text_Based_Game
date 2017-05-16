@@ -1,6 +1,25 @@
 wake up in room:
+	get up
+		you got up
 	check wounds
+		you find a small insiction behind your ear
+			get up
+			look around room
+			check for weapons
+			try to fix wound
+				you died, you are not a medical professional
 	look around room
+		a bare concrete room with a single wooden door.
+			try door
+				you havent gotten up yet
+					get up
+						you got up
+						 try door
+
+			get up
+				you got up
+
 	look for weapon
 	go back to sleep
-		you go back to sleep the end
+		you go back to sleep
+			The end, you sleep and wake up in your own world
