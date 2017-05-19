@@ -12,8 +12,59 @@ You stepped out into the bright light:
       eat the snow
         ...uh you eat the snow, you feel slightly dehydrated
       explore
+        you look around, you apparently exited out a cabin, there is a tree house in the distance
+          go forward
+            you walk awhile and nothing seems to change until you get to a lake, the lake seems to be more black then it should be
+              touch it
+                it feels like oil
+              drink it
+                ...it tastes like oil
+              bath in it
+                YOU SMELL LIKE OIL
+              walk around it
+                you walk around it and stumble onto another cabin, or is it the same cabin? you dont thing you made a circle but sure it is thats the same cabin
+          go left
+            you walk a short distance and you stumble on a metal door attached to a concrete wall, the wall seems to phase into the sorounding hill
+              inspect
+                the door has a strange symbol on it and there seems to be a keypad with a red and green botton next to the door
+                  look closer at symbol
+                    the door seems to be a circle within a circle and the outer circle has three arrows equally placed and going inwards
+                  press green botton
+                    the door promptly opens
+                      walk inside
+                        you walk inside, to section 3
+                      go back
+                        you go back to the cabin
+                  press red botton
+                    it makes a beep noise as if it says denied
+              open door
+                there is not a handle
+          go right
+            you walk quite a distance till you find a brick wall
+              inspect
+                there appears to be a message on it that says, "Other Way"
+                  Go the other way
+
+                  taste it
+                    taste like old pennies
+                  touch it
+                    its a strange sticky substince
+              go back
+          go to the tree house
+            the ladder up seems old and some of the steps seemes to have fallen off
+              go up
+                one of the steps breaks and you fall
+              go back
+                you go back to the cabin
 
       look for things
+        there is an axe stuck in a dead tree trunk with a pile of woods
+          grab axe
+            with a little effort you got the axe + 1 wood axe
+          grab wood
+            you picked up on of the cut logs + 1 firewood
+              you probably only need one
+
 
       make snowball
         you made a snowball +1 snowball
