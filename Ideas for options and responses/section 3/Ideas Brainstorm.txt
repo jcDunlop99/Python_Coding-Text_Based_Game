@@ -20,10 +20,63 @@ you went threw the door and it seems as if everything has the same theme as the 
               Type into the coffee machine
                 input ____
           go threw break room
-            you enter a hallway with doors on either side similar to the one you entered in but the keypads have a card slot all dont open and you go into the next area
+            you enter a hallway with doors on either side similar to the one you entered in but the keypads have a card slot
+              try doors
+                all dont open
+              go threw
+                you went into the other room
             you walk into a room with a huge metal gate and above it it says gate A in big letters
               try opening it
                 you see no way to open it
               go into the next room
-                you enter a room that seems to slightly resemble a waiting room of a hospital
+                you enter a room that seems to slightly resemble a waiting room of a hospital there are two doors left and right
+                  search for stuff
+                    you find a red keycard on the ground
+                      inspect keycard
+                        says its a level 5 access card
+                  go left
+                    you go to the left and find a similar gate to gate A but it says B and its open
+                      go into the door
+                        you walk threw (section 4 starts here)
+                      go right into the next room
+                        there is a single computer in a locked gate, the gate is open
+                          walk up to the computer
+                          go back
+                          shut gate
+                  go right
+                    you walk into (heavy containment)
+                  go back
+                    you go into the room with the doors
+                      open door 1
+                        theres a rock on the ground
+                        pick it up
+                          you decide to sit down and take a nap, the exploring can wait, who needs to leave when you got a nice comfy floor to lay on
+                            you die due to the procrastination rock, a different creature saw you napping and you died due to unknow means
+                        close door
+                          even though you'd rather just leave it open and save some energy you shut the door
+                      open door 2
+                        there appears to be...something in the room... whatever it is you cant remember it, you think that its not a sphear but emediatly forget everything about it when you close the door
+                      open door 3
+                        there is a mirror with a disk shaped object in it
+                          close door
+                          grab disk
+                            upon grabing the disk you finger slips into the mirror discover that you can enter the mirror while touching the disk. upon taking the disk the mirror turns green
+                              you enter the mirror and apear to be in a different world with a farm building near where you exit
+                              look around
+                                there is a gian black huminoid creature crawling across the land and it apears to only have a torso up no back legs
+                                  this creature sees you
+                                    attack it
+                                      you run at it and it is alot bigger then you though and it comes over you and spits a weird brown substince, you feel yourself dissolving and the creature eats you
+                                    go back
+                              go back
+                                you went back
+                                  close door
+                      open door 4
+                        seems to be a room full with a tomotoe plant
+                          pick up tomatoe 
+                          eat tomatoe
+                          close door
+
+
+
   go right
