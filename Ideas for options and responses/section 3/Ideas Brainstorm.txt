@@ -44,7 +44,63 @@ you went threw the door and it seems as if everything has the same theme as the 
                           go back
                           shut gate
                   go right
-                    you walk into (heavy containment)
+                    you walk into another room full of doors there apear to be five doors
+                      open door 1
+                        a slender pale man passing back in forth
+                          go up and ask if its ok
+                            upon going up and asking you see his face and if this hurts him he starts covering his face and screams
+                              close door
+                                he busts threw the door like paper and emmediatly attacks you
+                                  you died
+                              go up and interact with him
+                                apon getting closer he attacks you and you instantly die
+                          close door
+                            you close door
+                          inspect him
+                            he starts screaming and covering his face
+                              close door
+                                he busts threw the door like paper and emmediatly attacks you
+                              wait
+                                he goes and attacks you
+                      open door 2
+                        theres an empty room with a desk and a paper with some symbols on it
+                          try to make sense of these symbols
+                            upon vocalizing what these symbols mean a large black entity with weird tenticle hands appears and grabs you he vanishes with you
+                              you died
+                          close door
+                            you close door
+                      open door 3
+                        there is a large alligator like creature, it seems to not see you
+                          close door
+                            you close door
+                        pet it
+                          you go up and pet it, it seems to be a bit confused at first but then it messily eats you
+                            you died
+                        kick it
+                          you run up and kick it, which seems to startle the creature but then turns and attacks you
+                            hit it with axe (if have)
+                              you bury the axe into the scull of the creature enough to hit its brain, it seems to not be affected by this and eats you
+                                you died
+                            throw firewood
+                              you throw firewood it ignores it and eats you
+                                you died
+                      open door 4
+                        you enter a large room covered in a strange red substince
+                          enter
+                            you enter and the bottom of you feet start burning, the substance is highly accidic
+                              explore quick
+                                theres a single box in the middle and it is empty
+                              go back
+                          close door
+                            you close door
+                          taste it
+                            your tongue burns off and you die to internal bleeding
+                      open door 5
+                        a stair case that seems to not lead down anywhere
+                          go down
+                            (you die due to scp reasons)
+                          close door
+
                   go back
                     you go into the room with the doors
                       open door 1
@@ -73,9 +129,10 @@ you went threw the door and it seems as if everything has the same theme as the 
                                   close door
                       open door 4
                         seems to be a room full with a tomotoe plant
-                          pick up tomatoe 
+                          pick up tomatoe
                           eat tomatoe
                           close door
+                            go back
 
 
 
