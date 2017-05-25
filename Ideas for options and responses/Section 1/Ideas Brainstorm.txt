@@ -23,4 +23,4 @@ wake up in room:
 		you find nothing
 	go back to sleep
 		you go back to sleep
-			The snd
+			The end
