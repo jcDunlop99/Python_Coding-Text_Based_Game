@@ -1,3 +1,36 @@
+from time import sleep
+
+def loadInfo():
+    print("This game was built in co-operation between current and former students of Mrs. Dolderer's computer coding with python class.")
+    print("This game is built off of the model of the Zork text based adventure series first published in 1980.")
+    print("This is a community project and incompatiblities are almost guarenteed in earlier versions.")
+    print("Thank you for your understanding and patients.")
+    sleep(10)
+    main()
+
+def main():
+    print("Welcome to <Insert Title here> Alpha v0.03")
+    print("This is a text based adventure game written by our class.")
+    print("The controls are simple, input the number contained in the parenthesis")
+    print("(1) Begin Playing")
+    print("(2) Veiw Credits")
+    print("(3) Exit Window")
+    sel = int(input("Selection >> "))
+    if sel == 1:
+        print("Playing game")
+        s_1_start()
+    elif sel == 2:
+        print("Credits")
+        credits()
+    elif sel == 3:
+        print("Exiting Program")
+        quit()
+    else:
+        sefl = str(sel)
+        print(sefl , "is not an accepted input form, returning to top menu.")
+        time.sleep(3)
+        menu()
+
 def s_1_start():
     print("You wake up in a room in a small puddle of blood, what do you do?")
     print("(1) Get up")
@@ -82,3 +115,5 @@ def s_1_5():
     print("You Win")
     sleep(15)
     main()
+
+loadInfo()

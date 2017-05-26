@@ -8,7 +8,7 @@ def main():
     sel = int(input("Selection >> "))
     if sel == 1:
         print("Playing game")
-        untitled_section()
+        s_1_start()
     elif sel == 2:
         print("Credits")
         credits()
