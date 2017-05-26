@@ -1,0 +1,5 @@
+you go up the elevator to the outside world there are some guards standing around
+  go up to them and ask for help
+  go right
+  go left
+    

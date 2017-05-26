@@ -41,10 +41,11 @@ you went threw the door and it seems as if everything has the same theme as the 
                       go right into the next room
                         there is a single computer in a locked gate, the gate is open
                           walk up to the computer
+                            the computer has a giant
                           go back
                           shut gate
                   go right
-                    you walk into another room full of doors there apear to be five doors
+                    you walk into another room full of doors there apear to be six doors
                       open door 1
                         a slender pale man passing back in forth
                           go up and ask if its ok
@@ -100,6 +101,8 @@ you went threw the door and it seems as if everything has the same theme as the 
                           go down
                             (you die due to scp reasons)
                           close door
+                      open door 6
+                        door doesnt open apparently you need a higher keycard
 
                   go back
                     you go into the room with the doors
@@ -115,6 +118,7 @@ you went threw the door and it seems as if everything has the same theme as the 
                       open door 3
                         there is a mirror with a disk shaped object in it
                           close door
+                            closed door
                           grab disk
                             upon grabing the disk you finger slips into the mirror discover that you can enter the mirror while touching the disk. upon taking the disk the mirror turns green
                               you enter the mirror and apear to be in a different world with a farm building near where you exit
@@ -137,3 +141,23 @@ you went threw the door and it seems as if everything has the same theme as the 
 
 
   go right
+    youre in a hallway with six doors all of them are closed except the sixth door which is wide open
+      try door
+        all are locked
+      go threw sixth door
+        you head downstairs into (section 5)
+  go up again
+    there is a computer in a cage that appears locked
+    shake gate
+      you shook gate
+    look at computer
+      computer seems to have a face on it
+    go left
+      you enter a room that appears to resemble some sort of waiting room
+        look around
+          everything seems to be turned around and thrown
+        look for stuff
+          theres a red keycard on the ground that says level 5 you pick it up
+    go back
+      the sixth door appears to be shut
+        (everything is the same as the code up)
